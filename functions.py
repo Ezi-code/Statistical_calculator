@@ -1,16 +1,13 @@
 import statistics as st
 import numpy as np
 
-
 def mean(data):
     mean = st.mean(data)
     return mean 
 
-
 def mode(data):
     mode  = st.mode(data)
     return mode  
-
 
 def median(data):
     medina = st.median(data)
