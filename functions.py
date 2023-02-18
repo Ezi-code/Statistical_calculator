@@ -1,5 +1,5 @@
 import statistics as st
-import numpy as np
+# import numpy as np
 
 def mean(data):
     mean = st.mean(data)
